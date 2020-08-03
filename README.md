@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![My GitHub](https://github-readme-stats.vercel.app/api?username=SteamedFish&count_private=true&show_icons=true&theme=buefy&include_all_commits=true)
+![My GitHub](https://github-readme-stats.vercel.app/api?username=ajinwu&count_private=true&show_icons=true&theme=buefy&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SteamedFish&theme=buefy&hide=html,ruby&count_private=true&show_icons=true&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajinwu&theme=buefy&hide=html,php,css&count_private=true&show_icons=true&layout=compact)
